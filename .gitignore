@@ -1,0 +1,13 @@
+# ==========================================
+# Files / Folders to Ignore in Git Commits
+# ==========================================
+
+# 1. Programming Environment / Dependency / IDE Folders
+.vscode/
+CMakeFiles/ 
+
+# 2. Build Outputs and Compiled Code
+build/
+
+# 3. Third-party Libraries
+libs/
